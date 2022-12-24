@@ -8,6 +8,7 @@ class ViewController: UIViewController {
     // Variable de tipo Object para acceder a los métodos de la biblioteca de audio y video.
     var player: AVAudioPlayer!
     
+    // Función de carga de la aplicación, no la utilizamos aquí...
     override func viewDidLoad() {
         super.viewDidLoad()
     }
